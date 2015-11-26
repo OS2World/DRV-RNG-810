@@ -1,0 +1,24 @@
+"unix chksums for each file"
+ba512ca2   00readme.txt
+ba2dfda5   c0.asm
+adb1d940   codend.asm
+eba29246   copying
+5555e458   driver.inc
+5b716c75   makefile
+0054ebb0   rand.asm
+fdaff876   rand.h
+4b8a930b   randdrv.asc
+ddabb51a   randdrv.chk
+07069561   randdrv.cpp
+54f99697   randdrv.ddp
+edb830cf   randdrv.h
+0bc7cb72   randdrv.sys
+16eb44c9   rng-810.txt
+ca761c25   start.cpp
+7c331792   startup.cpp
+f8b6344d   turboc.cfg
+970e1f51   test\rand.cpp
+e3c0ac94   test\rand.exe
+262e6c3d   test\rand.obj
+========
+2575d469   Grand Total for 21 files

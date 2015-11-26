@@ -1,0 +1,18 @@
+       OS/2 Upload Information Template for ftp-os2.cdrom.com
+
+Archive Name: rng-810.zip
+Program Description: OS/2 device driver for RNG-810 random no generator
+Operating System: OS/2 2.x  
+
+Program Source: 
+                paul.elliott@hrnowl.lonestar.org
+Replaces: 
+
+Your name: 
+Your email address: paul.elliott@hrnowl.lonestar.org
+
+
+Proposed directory for placement: 
+
+/pub/os2/2_x/drivers
+

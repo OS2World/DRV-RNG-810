@@ -1,0 +1,40 @@
+* RANDDRV.SYS random number driver for RNG-810 or similar hardware
+* Copyright (C) 1994 Paul Elliot
+*
+* This program is free software; you can redistribute it and/or
+* modify it under the terms of the GNU General Public License
+* as published by the Free Software Foundation; either version 2
+* of the License, or (at your option) any later version.
+*
+* This program is distributed in the hope that it will be useful,
+* but WITHOUT ANY WARRANTY; without even the implied warranty of
+* MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+* GNU General Public License for more details.
+*
+* You should have received a copy of the GNU General Public License
+* along with this program; if not, write to the Free Software
+* Foundation, Inc., 675 Mass Ave, Cambridge, MA 02139, USA.
+*
+*Paul.Elliott@Hrnowl.LoneStar.Org
+*
+*Paul Elliott
+*
+*3986 South Gessner #224 Houston TX 77063
+*
+*
+* Hardware Random number generator driver for OS/2
+* supports calnet 810RNG 
+* newbridge 810 RNG
+* 
+*
+* Use OS/2 DDINSTAL program to copy the drivers.
+*
+:TITLE
+Hardware Random number generator for RNG 810
+
+:CONFIG
+DEVICE=RANDDRV.SYS %X300
+
+:FILES
+RANDDRV.SYS \OS2\RANDDRV.SYS
+
